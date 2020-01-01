@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Level
-nav_order: 1
+title: Tez
+nav_order: 7
 has_children: true
-permalink: docs/level
+permalink: docs/Tez
 ---
 
-# Level
+# Tez
 {: .no_toc }
 

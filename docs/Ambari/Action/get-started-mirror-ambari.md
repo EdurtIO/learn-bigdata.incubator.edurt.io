@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 构建Ambari私有源
+title: 5:构建Ambari私有源
 nav_order: 6
 parent: Action(实战)
 grand_parent: Ambari

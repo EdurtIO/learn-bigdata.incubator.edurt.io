@@ -2,7 +2,7 @@
 layout: default
 title: Presto安装部署
 nav_order: 1
-has_children: true
+has_children: false
 parent: Action(实战)
 grand_parent: Presto
 ---
@@ -17,9 +17,9 @@ grand_parent: Presto
 
 |依赖|版本|
 |:---:|---|
-|Presto|0.221|
+|Presto|345|
 |CentOS|7.x|
-|Java|1.8.0_212+|
+|Java|11+|
 
 ### 下载配置Presto
 
@@ -31,16 +31,16 @@ sudo chown -R presto:presto /hadoop/data/presto
 sudo - presto
 ```
 
-- [Presto官网](https://prestodb.io/download.html)下载安装包
+- [Presto官网](https://prestosql.io/download.html)下载安装包
 
 ```bash
-wget https://repo1.maven.org/maven2/com/facebook/presto/presto-server/0.221/presto-server-0.221.tar.gz
+wget https://repo1.maven.org/maven2/io/prestosql/presto-server/345/presto-server-345.tar.gz
 ```
 
 - 解压并重命名文件夹
 
 ```bash
-tar -xvzf presto-server-0.221.tar.gz && mv presto-server-0.221 server
+tar -xvzf presto-server-345.tar.gz && mv presto-server-345 server
 ```
 
 - 创建`node.properties`配置

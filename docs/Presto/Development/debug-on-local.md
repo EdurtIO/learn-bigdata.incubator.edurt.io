@@ -37,19 +37,19 @@ grand_parent: Presto
 
 - 打开IDEA选择`Open`打开下载并编译后的Presto源码
 
-![](/assets/images/presto/development/debug-on-local/open.png)
+![](/assets/images/Presto/Development/debug-on-local/open.png)
 
 > 由于源码过多,加载会稍微慢些,请等候源码加载完成
 
 - 开启Maven项目自动导入模式(下图)
 
-![](/assets/images/presto/development/debug-on-local/auto-import.png)
+![](/assets/images/Presto/Development/debug-on-local/auto-import.png)
 
 点击`Enable Auto-Import`即可自动加载依赖并加载
 
 - Maven项目识别后目录大概如下
 
-![](/assets/images/presto/development/debug-on-local/toc.png)
+![](/assets/images/Presto/Development/debug-on-local/toc.png)
 
 ### 配置项目
 
@@ -59,7 +59,7 @@ grand_parent: Presto
 
 同时按住`command`+';'键弹出设置窗口
 
-![](/assets/images/presto/development/debug-on-local/jdk.png)
+![](/assets/images/Presto/Development/debug-on-local/jdk.png)
 
 选择我们的JDK(1.8版本),然后点击`OK`按钮
 
@@ -69,11 +69,11 @@ grand_parent: Presto
 
 在该类文件上鼠标右键弹出一下窗口
 
-![](/assets/images/presto/development/debug-on-local/configuration.png)
+![](/assets/images/Presto/Development/debug-on-local/configuration.png)
 
 点击`Create 'PrestoServer.main()'...`按钮弹出以下配置输入框
 
-![](/assets/images/presto/development/debug-on-local/configuration_done.png)
+![](/assets/images/Presto/Development/debug-on-local/configuration_done.png)
 
 我们详细配置有三个地方
 

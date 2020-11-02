@@ -1,9 +1,9 @@
 {
-  "name": "incubator-docs",
+  "name": "learn-bigdata",
   "version": "1.0.0",
-  "description": "Jekyll文档主题",
-  "repository": "EdurtIO/incubator-docs",
-  "bugs": "https://github.com/EdurtIO/incubator-docs/issues",
+  "description": "Learn BigData",
+  "repository": "EdurtIO/learn-bigdata.incubator.edurt.io",
+  "bugs": "https://github.com/EdurtIO/learn-bigdata.incubator.edurt.io/issues",
   "devDependencies": {
     "stylelint": "^13.7.2",
     "@primer/css": "^15.2.0",

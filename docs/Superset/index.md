@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Level
+title: Superset
 nav_order: 1
 has_children: true
-permalink: docs/level
+permalink: docs/Superset
 ---
 
-# Level
+# Superset
 {: .no_toc }
 

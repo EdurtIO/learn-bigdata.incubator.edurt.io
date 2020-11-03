@@ -7,6 +7,13 @@ permalink: /
 ---
 
 # Learn BigData
+
+[![GitHub issues](https://img.shields.io/github/issues/EdurtIO/learn-bigdata.incubator.edurt.io.git?style=social)](https://github.com/EdurtIO/learn-bigdata.incubator.edurt.io/issues)
+[![GitHub forks](https://img.shields.io/github/forks/EdurtIO/learn-bigdata.incubator.edurt.io.git?style=social)](https://github.com/EdurtIO/learn-bigdata.incubator.edurt.io/network)
+[![GitHub stars](https://img.shields.io/github/stars/EdurtIO/learn-bigdata.incubator.edurt.io.git?style=social)](https://github.com/EdurtIO/learn-bigdata.incubator.edurt.io/stargazers)
+
+---
+
 {: .fs-9 }
 
 ### 非常感谢以下Contributors对我们的支持!

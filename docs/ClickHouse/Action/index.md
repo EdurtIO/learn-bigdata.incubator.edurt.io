@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Level
+title: Action(实战)
 nav_order: 1
 has_children: true
-permalink: docs/level
+parent: ClickHouse
 ---
 
-# Level
+# ClickHouse Action(实战)
 {: .no_toc }
 

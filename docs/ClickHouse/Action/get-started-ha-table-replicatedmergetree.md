@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ClickHouse ReplicatedMergeTree
+title: ReplicatedMergeTree表
 nav_order: 5
 has_children: false
 parent: Action(实战)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReplicatedMergeTree表
+title: ReplicatedMergeTree分布式表
 nav_order: 5
 has_children: false
 parent: Action(实战)

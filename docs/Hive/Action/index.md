@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Level1
+title: Action(实战)
 nav_order: 1
 has_children: true
-parent: Level
-permalink: /docs/level/level1
+parent: Hive
 ---
 
-# Level 1
+# Hive Action(实战)
 {: .no_toc }
 

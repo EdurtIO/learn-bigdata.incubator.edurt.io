@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Level
-nav_order: 1
+title: Hive
+nav_order: 7
 has_children: true
-permalink: docs/level
+permalink: docs/Hive
 ---
 
-# Level
+# Hive
 {: .no_toc }
 

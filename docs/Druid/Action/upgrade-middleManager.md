@@ -1,6 +1,6 @@
 ---
 layout: default
-title: middleManager节点升级
+title: 升级middleManager节点
 nav_order: 100
 parent: Mistakes(问题)
 grand_parent: Druid

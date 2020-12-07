@@ -1,7 +1,7 @@
 ---
 layout: default
-title: middleManager节点升级
-nav_order: 11
+title: 升级middleManager节点
+nav_order: 100
 parent: Action(实战)
 grand_parent: Druid
 ---
@@ -12,11 +12,11 @@ grand_parent: Druid
 1. TOC
 {:toc}
 
-### 准备工作
+我们在升级druid服务的时候,升级`historical`,`overlord`,`broker`,`coordinator`这些服务很简单,但是由于在`middleManager`节点中运行着大量的task计算任务,我们升级的话需要进行一些安全操作.
+
+### 升级准备
 
 ---
-
-我们在升级druid服务的时候,升级`historical`,`overlord`,`broker`,`coordinator`这些服务很简单,但是由于在`middleManager`节点中运行着大量的task计算任务,我们升级的话需要进行一些安全操作.
 
 - 禁止Overlord再向指定服务的MiddleManager分配任务**必须操作**
 

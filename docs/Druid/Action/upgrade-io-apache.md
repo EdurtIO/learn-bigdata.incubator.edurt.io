@@ -2,7 +2,7 @@
 layout: default
 title: 升级druid.io到apache版本
 nav_order: 101
-parent: Mistakes(问题)
+parent: Action(实战)
 grand_parent: Druid
 ---
 

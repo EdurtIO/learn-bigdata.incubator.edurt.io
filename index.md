@@ -25,3 +25,13 @@ permalink: /
   </li>
 {% endfor %}
 </ul>
+
+### 支持模块
+
+---
+
+- [Presto]({{ site.baseurl }}{% link docs/Presto/index.md %})
+- [Superset]({{ site.baseurl }}{% link docs/Superset/index.md %})
+- [Ambari]({{ site.baseurl }}{% link docs/Ambari/index.md %})
+- [Druid]({{ site.baseurl }}{% link docs/Druid/index.md %})
+- [ClickHouse]({{ site.baseurl }}{% link docs/ClickHouse/index.md %})

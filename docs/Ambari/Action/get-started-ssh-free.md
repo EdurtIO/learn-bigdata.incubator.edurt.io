@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 配置集群SSH免密登录
-nav_order: 2
+nav_order: 3
 parent: Action(实战)
 grand_parent: Ambari
 ---

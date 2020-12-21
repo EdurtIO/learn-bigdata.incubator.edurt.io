@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presto安装部署
+title: Presto安装部署(简化版)
 nav_order: 1
 has_children: false
 parent: Action(实战)
@@ -123,3 +123,5 @@ tail -f /hadoop/data/presto/data/var/log/server.log
 
 > 配置works很简单,只需要修改`config.properties`配置文件,将**coordinator=true**修改为false, **discovery-server.enabled=true**注释掉
 > 修改`node.properties`将**node.id**配置为集群中唯一值即可
+
+如果我们需要单机进行测试Presto服务时，修改`etc/config.properties`配置文件，在配置文件中写入`node-scheduler.include-coordinator=true`这标识该节点也是一台worker节点，此时我们可以在同一台机器上进行体验Presto的各功能。

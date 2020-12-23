@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 配置集群SSH免密登录
+title: 配置服务器SSH免密登录
 nav_order: 3
 parent: Action(实战)
 grand_parent: Ambari
@@ -12,6 +12,9 @@ grand_parent: Ambari
 1. TOC
 {:toc}
 
+本文我们主要讲解如何配置集群中各个节点的免密配置及使用方式。
+
+为了防止我们使用非root账号执行命令要在所有命令前加上`sudo`命令
 
 ### 基本环境信息
 

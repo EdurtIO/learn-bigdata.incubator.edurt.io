@@ -12,6 +12,8 @@ grand_parent: Ambari
 1. TOC
 {:toc}
 
+我们本篇文章主要讲述在安装Ambari服务前需要安装的各种第三方支撑的系统依赖。
+
 ### 安装配置NTP服务
 
 ---
@@ -138,4 +140,4 @@ echo 'gpgcheck=0' >> /etc/yum/pluginconf.d/priorities.conf
 gpgcheck=0
 ```
 
-此时我们所有的集群依赖环境已经安转完成
+此时我们所有的集群依赖环境已经安装完成。

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ClickHouse整合Kafka(元数据)
+title: ClickHouse整合Kafka(读数据)
 nav_order: 101
 has_children: false
 parent: Action(实战)

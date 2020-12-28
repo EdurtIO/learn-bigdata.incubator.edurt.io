@@ -10,7 +10,7 @@ grand_parent: Ambari
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 我们本篇文章主要讲述如何去同步远程服务器中的Ambari数据源到本地，并将其作为局域网yum安装源。
 

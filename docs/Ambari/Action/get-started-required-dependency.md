@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 配置集群环境必备依赖
+title: 3:配置集群环境必备依赖
 nav_order: 4
 parent: Action(实战)
 grand_parent: Ambari

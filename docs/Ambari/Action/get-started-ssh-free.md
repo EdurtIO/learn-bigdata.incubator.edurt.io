@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 配置服务器SSH免密登录
+title: 2:配置服务器SSH免密登录
 nav_order: 3
 parent: Action(实战)
 grand_parent: Ambari

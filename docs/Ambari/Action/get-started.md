@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ambari使用场景及介绍
+title: 1:Ambari使用场景及介绍
 nav_order: 2
 parent: Action(实战)
 grand_parent: Ambari

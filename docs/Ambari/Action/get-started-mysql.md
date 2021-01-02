@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MySQL服务安装配置
+title: 4:MySQL服务安装配置
 nav_order: 5
 parent: Action(实战)
 grand_parent: Ambari
